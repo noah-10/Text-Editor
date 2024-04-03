@@ -1,6 +1,6 @@
 # Text-Editor
 
-<!-- Image Here -->
+![Image of application](./assets/Jate%20SS.png)
 
 ## Description
 
@@ -34,4 +34,4 @@ Jate is just another text editor. It allows users to creates notes or code snipp
 
 ## Live Application
 
-<!-- Link to live application -->
+- You can view the application [here](https://text-editor-jate.onrender.com/).
