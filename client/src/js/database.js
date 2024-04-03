@@ -12,7 +12,7 @@ const initdb = async () =>
     },
   });
 
-// TODO: Add logic to a method that accepts some content and adds it to the database
+// Logic for editing the content of the content to store in indexDB
 export const putDb = async (content) => {
 
   // Creates a connection to the database
@@ -33,7 +33,7 @@ export const putDb = async (content) => {
   console.log('Data saved to the database', result);
 };
 
-// TODO: Add logic for a method that gets all the content from the database
+// Logic for getting all of the content from the database
 export const getDb = async () => {
   // Creates a connection to the database
   const contactDb = await openDB('jate', 1);
